@@ -1,3 +1,14 @@
-.width100 {
-    width: 100%;
+#menu a {
+    color: #00ccff;
+}
+#logo {
+    background-color: black;
+    margin: 3em -3em;
+}
+#recorday{
+    color: white;
+    background-color: #00ccff;
+    margin: 3em -3em;
+    padding-top: 3em;
+    padding-bottom: 3em;
 }
